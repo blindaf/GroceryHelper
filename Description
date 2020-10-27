@@ -6,9 +6,13 @@ Screen 1:
 Screen 2:
 >Layout of store selected
 >User is able to see every section in the store (e.g. dairy aisle etc.)
->Each section shows what is sold
+>Each section shows what is sold and has a button on it
 >Contributed and regularly updated by locals around the area
+>Button A is on the bottom left
 
-Screen 3:
-
-Screen 4:
+Screen 3 (Button A pressed):
+>Layout of store selected
+>User is able to see every section in the store (e.g. dairy aisle etc.)
+>Each section shows what is sold and has a button on it
+>Contributed and regularly updated by locals around the area
+>The shortest path to the selected section in the store is highlighted
